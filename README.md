@@ -1,4 +1,4 @@
-### Task Manager
+# Task Manager
 
    Task manager project was built in python using lists, functions and string handling to manage the different tasks handle by admin and user. 
    Admin can:

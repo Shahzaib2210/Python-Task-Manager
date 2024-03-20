@@ -37,7 +37,7 @@
 
 
 - Right Click on your file, Click on Run Code.
-  
+
 ![G4](https://github.com/Shahzaib3832/finalCapstone/assets/155553989/bcc883c8-b31c-4de8-b111-6be8ed1c458c)
 
 - Enter username : admin

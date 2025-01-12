@@ -24,22 +24,23 @@
 - After downloading the project.
 - Open Visual Studio Code.
 - On home screen, Click on open folder.
-  
- ![G1](https://github.com/Shahzaib3832/finalCapstone/assets/155553989/556dfc11-4fd7-4fbe-becf-0087446e4f3b)
-
 - Go to folder where you have downloaded the repository and click on that folder.
 
- ![G2](https://github.com/Shahzaib3832/finalCapstone/assets/155553989/e7db1b58-605a-454f-9004-627a5c7d956b)
+<img src = "https://github.com/user-attachments/assets/b83756a1-09a2-47c7-b27d-9ed389749298" height="400" width="1500">
 
 - Now project is open in Visual Studio Code, click on task_manager.py file.
   
- ![G3](https://github.com/Shahzaib3832/finalCapstone/assets/155553989/80362a72-29a4-49f9-98d0-f61e5e96cdb6)
+<img src = "https://github.com/user-attachments/assets/fd769499-b267-41ce-aab7-c6962034a47d" height="400" width="1500">
 
 - Right Click on your file, Click on Run Code.
 
- ![G4](https://github.com/Shahzaib3832/finalCapstone/assets/155553989/bcc883c8-b31c-4de8-b111-6be8ed1c458c)
+<img src = "https://github.com/user-attachments/assets/0bb5c5fe-638a-4538-a55c-15b9668e5862" height="400" width="1500"> 
+
+<br> <img src = "https://github.com/user-attachments/assets/1f4a4c71-4d71-40d6-b060-447b818e33a3" height="400" width="1500"> </br>
 
 - Enter username : admin
 - password : password
-  
- ![G6](https://github.com/Shahzaib3832/finalCapstone/assets/155553989/60eae5c6-42fd-434f-97db-2183cd5f2f43)
+
+<img src = "https://github.com/user-attachments/assets/acf0e4f6-6872-4d09-95a3-269be6a487fc" height="400" width="1500">
+
+<br> <img src = "https://github.com/user-attachments/assets/bf6554c6-af36-4df1-868a-3fa0fac5d711" height="400" width="1500"> </br>
